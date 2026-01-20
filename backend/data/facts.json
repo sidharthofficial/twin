@@ -1,0 +1,28 @@
+{
+  "full_name": "Siddharth Chakraborty",
+  "name": "Siddharth",
+  "current_role": "Senior AI ML Engineer",
+  "location": "Bengaluru, India",
+  "email": "siddharth.official4567@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/siddharthchakra/",
+  "specialties": [
+    "Generative AI",
+    "Langchain",
+    "LangGraph",
+    "Prompt Engineering",
+    "Machine Learning",
+    "Deep Learning",
+    "NLP",
+    "Computer Vision",
+    "Data Science",
+    "Cloud Computing"
+  ],
+  "years_experience": 5,
+  "education": [
+    {
+      "degree": "B.Tech in Electronics and Communication Engineering",
+      "institution": "Silicon Institute of Technology, Bhubaneshwar, India",
+      "year": "2021"
+    }
+  ]
+}
