@@ -34,24 +34,6 @@ This starts the Next.js dev server (likely on http://localhost:3000)
 
 # destroy
 
-# Step 1: destroy production
-
 ./scripts/destroy.sh dev
 ./scripts/destroy.sh test
 ./scripts/destroy.sh prod
-
-
-# Step 2: Clean Up Terraform Workspaces
-After resources are destroyed, remove the workspaces:
-
-cd terraform
-
-# Switch to default workspace
-terraform workspace select default
-
-# Delete the workspaces
-terraform workspace delete dev
-terraform workspace delete test
-terraform workspace delete prod
-
-cd ..
